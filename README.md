@@ -12,12 +12,18 @@ Pretty simple really:
 - Select File > Export All > File...
 - Follow the prompts
 
+## Optional Step 1.5: Curate Your Export
+
+At this stage you have a fairly easy to curate file of your passwords.  In the first column of the file is the title of the entry, and this will be pushed into pass as the title (as is).  
+
+If you have reviewed pass' documentation you will notice that it uses a naming scheme of Folder/Folder/Entry.  I don't know about you, but I didn't have my 1Password's this well organized, so I took some time to tweak the entries a little so I got meaningful structure when imported into pass.
+
 ## Step 2: Import your Passwords into Pass
 
 First clone this repository:
 
 ```console
-TODO
+git clone https://github.com/DamonOehlman/1Password2pass.git
 cd 1Password2pass
 ```
 
