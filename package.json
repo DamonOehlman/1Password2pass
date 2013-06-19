@@ -1,6 +1,7 @@
 {
   "name": "1Password2pass",
   "version": "0.0.0",
+  "private": true,
   "dependencies": {
     "csv": "~0.3.3",
     "out": "~0.4.3",
